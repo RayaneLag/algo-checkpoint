@@ -1,3 +1,7 @@
+// checkpointALgo1
+
+
+
 // Algorithm dot_product(v1, v2)
 //     ps = 0
 //     For i from 0 to size(v1) 
